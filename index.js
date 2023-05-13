@@ -42,4 +42,3 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
 
 invokeAction(argv);
 
-// contactService.addContact("newContactName", "newContactEmail", "newContactPhone")
